@@ -76,3 +76,21 @@ h1, h2, h3, h4, h5, h6 {
 .btn-accent {
   @apply bg-brand-maroon text-white hover:bg-brand-maroon-dark shadow-md;
 }
+
+/* Glassmorphism Utilities */
+.glass-card {
+  @apply backdrop-blur-xl bg-brand-black/40 border border-brand-gold/20;
+}
+
+.glass-card-hover {
+  @apply backdrop-blur-xl bg-brand-black/40 border border-brand-gold/20 transition-all duration-300 hover:border-brand-gold/60 hover:shadow-2xl hover:shadow-brand-gold/10;
+}
+
+.glass-overlay {
+  @apply absolute inset-0 bg-gradient-to-br from-brand-gold/5 via-transparent to-brand-green/5 pointer-events-none;
+}
+
+/* Smooth Scroll Offset for Fixed Header */
+html {
+  scroll-padding-top: 100px;
+}
