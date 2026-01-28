@@ -80,6 +80,42 @@
 - **Aesthetic Drift**: Regular audits by `ui-ux-pro-max` to ensure the "Ranchy" vibe isn't lost.
 
 ---
+
+## Troubleshooting Guide
+
+### Vercel Build Failures - Dependency Issues
+**Symptom**: Vercel refuses deployment with build errors mentioning:
+- `tailwindcss-oxide.win32-x64-msvc.node is not a valid Win32 application`
+- `Can't resolve 'motion-dom'` or `Can't resolve './progress.mjs'`
+- Multiple module resolution errors in `framer-motion` or `motion-utils`
+
+**Root Cause**: 
+1. **Corrupted `node_modules`** - Native binaries (especially Tailwind's oxide engine) can become corrupted
+2. **Beta/Unstable Dependencies** - Tailwind v4 beta has known issues with native binaries on Windows
+3. **Missing Peer Dependencies** - Newer framer-motion versions require `motion-dom` and `motion-utils`
+
+**Resolution** (January 2026):
+```bash
+# 1. Clean corrupted dependencies
+Remove-Item -Recurse -Force node_modules, package-lock.json
+
+# 2. Update package.json to stable versions
+# - Tailwind CSS: 4.0.0-beta.8 → ^3.4.17 (stable)
+# - Remove: @tailwindcss/postcss (beta-only package)
+
+# 3. Fresh install
+npm install
+
+# 4. Test build locally
+npm run build
+```
+
+**Prevention**:
+- Avoid beta/alpha dependencies in production projects
+- Use `npm ci` for clean installs in CI/CD environments
+- Document dependency version constraints in this SOP
+
+---
 **Version**: 1.0
 **Last Updated**: January 2026
 **Current Phase**: Phase 1
