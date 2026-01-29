@@ -8,7 +8,7 @@ serve(async (req) => {
 
     const GMAIL_USER = Deno.env.get('GMAIL_USER')
     const GMAIL_APP_PASSWORD = Deno.env.get('GMAIL_APP_PASSWORD')
-    const RECIPIENT_EMAIL = Deno.env.get('RECIPIENT_EMAIL') || 'GreaterAikenIrrigation@gmail.com'
+    const RECIPIENT_EMAIL = Deno.env.get('RECIPIENT_EMAIL') || 'prograniteservices@gmail.com'
 
     console.log(`New lead received: ${name} (${email})`)
 
