@@ -6,9 +6,9 @@ import Image from "next/image";
 export function Services() {
     const services = [
         {
-            title: "Golf Course Maintenance",
-            desc: "Full-scale irrigation auditing and specialized head maintenance for elite courses.",
-            img: "/assets/golf2.jpg",
+            title: "Athletic Field Maintenance",
+            desc: "Full-scale irrigation auditing and specialized head maintenance for athletic fields and sports complexes.",
+            img: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&q=80",
         },
         {
             title: "Vibrant Flower Gardens",

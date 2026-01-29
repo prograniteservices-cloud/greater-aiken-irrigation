@@ -19,8 +19,8 @@ export const metadata: Metadata = {
         default: "Greater Aiken Irrigation LLC | Premier Irrigation & Landscaping",
         template: "%s | Greater Aiken Irrigation"
     },
-    description: "Established irrigation expertise for residential estates and commercial grounds. Specializing in golf courses, flower gardens, and reliable system maintenance in Aiken, SC.",
-    keywords: ["irrigation system aiken sc", "golf course irrigation", "garden sprinkler systems", "Greater Aiken Irrigation", "Travis R. Sowell", "irrigation maintenance"],
+    description: "Established irrigation expertise for residential estates and commercial grounds. Specializing in botanical gardens, athletic fields, and reliable system maintenance in Aiken, SC.",
+    keywords: ["irrigation system aiken sc", "garden sprinkler systems", "athletic field irrigation", "Greater Aiken Irrigation", "Travis R. Sowell", "irrigation maintenance"],
     openGraph: {
         type: 'website',
         locale: 'en_US',

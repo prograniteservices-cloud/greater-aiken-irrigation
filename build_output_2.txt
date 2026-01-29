@@ -1,0 +1,36 @@
+﻿
+> greater-aiken-irrigation@0.1.0 build
+> next build
+
+Γû▓ Next.js 16.1.6 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+Γ£ô Compiled successfully in 16.7s
+  Running TypeScript ...
+  Collecting page data using 3 workers ...
+  Generating static pages using 3 workers (0/3) ...
+node.exe : Error occurred prerendering page "/". Read more: 
+https://nextjs.org/docs/messages/prerender-error
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program 
+Files\nodejs/node_mo ...
++ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Error occurred ...preren 
+   der-error:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Error: Missing Supabase environment variables in production
+    at module evaluation (C:\Users\heath\Desktop\Project_Directory\Dad
+\.next\server\chunks\ssr\_9ed92ce8._.js:39:48077)
+    at instantiateModule (C:\Users\heath\Desktop\Project_Directory\Dad
+\.next\server\chunks\ssr\[turbopack]_runtime.js:740:9)
+    at getOrInstantiateModuleFromParent (C:\Users\heath\Desktop\Projec
+t_Directory\Dad\.next\server\chunks\ssr\[turbopack]_runtime.js:763:12)
+    at Context.commonJsRequire [as r] (C:\Users\heath\Desktop\Project_
+Directory\Dad\.next\server\chunks\ssr\[turbopack]_runtime.js:249:12) {
+  digest: '2310844216'
+}
+Export encountered an error on /page: /, exiting the build.
+Γ¿» Next.js build worker exited with code: 1 and signal: null

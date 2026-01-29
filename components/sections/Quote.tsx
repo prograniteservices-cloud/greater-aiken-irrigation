@@ -19,21 +19,34 @@ export function Quote() {
         const project = formData.get("project") as string;
         const detail = formData.get("detail") as string;
 
+        const leadData = {
+            name,
+            email,
+            phone_number: phone,
+            brief_description: `Type: ${project}. Detail: ${detail}`,
+        };
+
         const { error } = await supabase
             .from("leads")
-            .insert([
-                {
-                    name,
-                    email,
-                    phone_number: phone,
-                    brief_description: `Type: ${project}. Detail: ${detail}`,
-                },
-            ]);
+            .insert([leadData]);
 
         if (error) {
             console.error("Error submitting lead:", error);
             setFormStatus("idle");
             return;
+        }
+
+        try {
+            await fetch(`${process.env.NEXT_PUBLIC_SUPABASE_URL}/functions/v1/send-lead-email`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY}`
+                },
+                body: JSON.stringify({ record: leadData })
+            });
+        } catch (emailError) {
+            console.error("Failed to send email notification:", emailError);
         }
 
         setFormStatus("success");
@@ -153,7 +166,6 @@ export function Quote() {
                                             name="project"
                                             className="w-full bg-brand-black/60 border border-brand-gold/20 px-6 py-4 text-brand-white focus:border-brand-gold focus:outline-none transition-colors backdrop-blur-sm"
                                         >
-                                            <option>Golf Course</option>
                                             <option>Botanical Garden</option>
                                             <option>Residential Estate</option>
                                             <option>Commercial Property</option>

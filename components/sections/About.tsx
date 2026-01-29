@@ -6,7 +6,7 @@ export function About() {
     const skills = [
         {
             title: "Complex Design Mastery",
-            description: "Engineered irrigation systems for Augusta's most demanding golf courses and prestigious botanical gardens.",
+            description: "Engineered irrigation systems for Augusta's most prestigious botanical gardens and athletic fields.",
             icon: "🎯"
         },
         {

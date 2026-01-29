@@ -133,10 +133,10 @@ export function Footer() {
                                 Specializing In
                             </p>
                             <ul className="space-y-1 text-brand-white/60 text-sm">
-                                <li>Golf Courses</li>
                                 <li>Botanical Gardens</li>
                                 <li>Residential Estates</li>
                                 <li>Commercial Properties</li>
+                                <li>Athletic Fields</li>
                             </ul>
                         </div>
                     </div>

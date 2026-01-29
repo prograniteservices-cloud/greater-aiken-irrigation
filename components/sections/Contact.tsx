@@ -92,7 +92,7 @@ export function Contact() {
 
                                     <div className="pt-8 border-t border-brand-gold/20">
                                         <p className="text-brand-white/60 text-sm leading-relaxed mb-8 italic">
-                                            "Precision isn't just a goal; it's the standard I've lived by for 40 years. Whether it's a golf course or a private garden, the soil deserves excellence."
+                                            "Precision isn't just a goal; it's the standard I've lived by for 40 years. Whether it's a botanical garden or private estate, the soil deserves excellence."
                                         </p>
                                         <motion.a
                                             href="tel:912-266-9697"

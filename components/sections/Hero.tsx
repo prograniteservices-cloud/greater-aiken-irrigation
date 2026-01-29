@@ -13,8 +13,8 @@ export function Hero() {
                 className="absolute inset-0 z-0"
             >
                 <Image
-                    src="/assets/golf1.webp"
-                    alt="Cinematic Golf Course Irrigation"
+                    src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+                    alt="Cinematic Irrigation"
                     fill
                     className="object-cover"
                     priority
