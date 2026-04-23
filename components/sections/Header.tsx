@@ -39,7 +39,7 @@ export function Header() {
                         >
                             <div className="relative w-12 h-12">
                                 <Image
-                                    src="/assets/greataikencard.png"
+                                    src="/assets/logo-gold.png"
                                     alt="GAI Logo"
                                     fill
                                     className="object-contain filter brightness-110"

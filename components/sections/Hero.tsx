@@ -13,7 +13,7 @@ export function Hero() {
                 className="absolute inset-0 z-0"
             >
                 <Image
-                    src="/assets/portfolio1.png"
+                    src="/assets/sprinkler-shed.jpg"
                     alt="Cinematic Irrigation"
                     fill
                     className="object-cover"
