@@ -8,17 +8,17 @@ export function Services() {
         {
             title: "Athletic Field Maintenance",
             desc: "Full-scale irrigation auditing and specialized head maintenance for athletic fields and sports complexes.",
-            img: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&q=80",
+            img: "/assets/portfolio2.jpg",
         },
         {
             title: "Vibrant Flower Gardens",
             desc: "Drip systems and micro-irrigation tailored to preserve the health of rare botanical collections.",
-            img: "/assets/personal3.jpg",
+            img: "/assets/portfolio3.jpg",
         },
         {
             title: "Residential Estates",
             desc: "High-end residential systems designed for longevity and flawless seasonal performance.",
-            img: "/assets/personal1.jpg",
+            img: "/assets/portfolio4.jpg",
         },
     ];
 

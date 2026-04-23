@@ -32,7 +32,7 @@ export function Header() {
                     <div className="relative flex items-center justify-between px-8 py-4">
                         {/* Logo Section */}
                         <motion.a
-                            href="#"
+                            href="/"
                             className="flex items-center gap-4 group"
                             whileHover={{ scale: 1.02 }}
                             transition={{ type: "spring", stiffness: 400 }}
@@ -58,10 +58,10 @@ export function Header() {
                         {/* Navigation Links */}
                         <div className="hidden lg:flex items-center gap-12">
                             {[
-                                { label: "Services", href: "#services" },
-                                { label: "Gallery", href: "#gallery" },
-                                { label: "About", href: "#about" },
-                                { label: "Quote", href: "#quote" },
+                                { label: "Services", href: "/#services" },
+                                { label: "Gallery", href: "/#gallery" },
+                                { label: "About", href: "/#about" },
+                                { label: "Quote", href: "/#quote" },
                             ].map((link, idx) => (
                                 <motion.a
                                     key={link.href}
@@ -78,7 +78,7 @@ export function Header() {
 
                         {/* Contact Button */}
                         <motion.a
-                            href="#contact"
+                            href="/#contact"
                             className="hidden md:block btn btn-secondary text-xs px-6 py-3"
                             whileHover={{ scale: 1.05 }}
                             whileTap={{ scale: 0.95 }}

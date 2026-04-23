@@ -4,8 +4,11 @@ import Image from "next/image";
 
 export function Gallery() {
     const images = [
-        "/assets/personal4.jpg",
-        "/assets/personal2.jpg",
+        "/assets/portfolio1.png",
+        "/assets/portfolio2.jpg",
+        "/assets/portfolio3.jpg",
+        "/assets/portfolio4.jpg",
+        "/assets/portfolio5.jpg",
     ];
 
     return (

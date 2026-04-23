@@ -100,11 +100,12 @@ export function Footer() {
                         </h4>
                         <nav className="space-y-3">
                             {[
-                                { label: "Services", href: "#services" },
-                                { label: "Gallery", href: "#gallery" },
-                                { label: "About Us", href: "#about" },
-                                { label: "Request Quote", href: "#quote" },
-                                { label: "Contact", href: "#contact" },
+                                { label: "Services", href: "/#services" },
+                                { label: "Case Studies", href: "/case-studies" },
+                                { label: "Gallery", href: "/#gallery" },
+                                { label: "About Us", href: "/#about" },
+                                { label: "Request Quote", href: "/#quote" },
+                                { label: "Contact", href: "/#contact" },
                             ].map((link) => (
                                 <a
                                     key={link.href}
@@ -174,9 +175,9 @@ export function Footer() {
                         © 2026 Greater Aiken Irrigation LLC. All rights reserved.
                     </p>
                     <div className="flex gap-8 text-xs uppercase font-bold tracking-widest text-brand-white/40">
-                        <a href="#" className="hover:text-brand-gold transition-colors">Privacy Policy</a>
-                        <a href="#" className="hover:text-brand-gold transition-colors">Terms of Service</a>
-                        <a href="#" className="hover:text-brand-gold transition-colors">Safety</a>
+                        <a href="/#privacy" className="hover:text-brand-gold transition-colors">Privacy Policy</a>
+                        <a href="/#terms" className="hover:text-brand-gold transition-colors">Terms of Service</a>
+                        <a href="/#safety" className="hover:text-brand-gold transition-colors">Safety</a>
                     </div>
                 </div>
             </div>

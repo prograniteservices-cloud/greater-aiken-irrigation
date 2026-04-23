@@ -13,7 +13,7 @@ export function Hero() {
                 className="absolute inset-0 z-0"
             >
                 <Image
-                    src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+                    src="/assets/portfolio1.png"
                     alt="Cinematic Irrigation"
                     fill
                     className="object-cover"
@@ -40,11 +40,11 @@ export function Hero() {
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-                        <a href="#quote" className="btn btn-primary min-w-[200px]">
+                        <a href="/#quote" className="btn btn-primary min-w-[200px]">
                             Request Estimate
                         </a>
                         <a
-                            href="#services"
+                            href="/#services"
                             className="text-brand-white/60 hover:text-brand-gold transition-colors font-bold uppercase tracking-widest text-sm border-b border-brand-white/20 pb-1"
                         >
                             Explore Expertise
