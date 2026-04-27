@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
+import Link from 'next/link';
 
 export function Footer() {
     return (
@@ -107,13 +108,13 @@ export function Footer() {
                                 { label: "Request Quote", href: "/#quote" },
                                 { label: "Contact", href: "/#contact" },
                             ].map((link) => (
-                                <a
+                                <Link
                                     key={link.href}
                                     href={link.href}
                                     className="block text-brand-white/60 hover:text-brand-gold hover:translate-x-2 transition-all text-sm"
                                 >
                                     → {link.label}
-                                </a>
+                                </Link>
                             ))}
                         </nav>
                     </div>
@@ -175,9 +176,9 @@ export function Footer() {
                         © 2026 Greater Aiken Irrigation LLC. All rights reserved.
                     </p>
                     <div className="flex gap-8 text-xs uppercase font-bold tracking-widest text-brand-white/40">
-                        <a href="/#privacy" className="hover:text-brand-gold transition-colors">Privacy Policy</a>
-                        <a href="/#terms" className="hover:text-brand-gold transition-colors">Terms of Service</a>
-                        <a href="/#safety" className="hover:text-brand-gold transition-colors">Safety</a>
+                        <Link href="/#privacy" className="hover:text-brand-gold transition-colors">Privacy Policy</Link>
+                        <Link href="/#terms" className="hover:text-brand-gold transition-colors">Terms of Service</Link>
+                        <Link href="/#safety" className="hover:text-brand-gold transition-colors">Safety</Link>
                     </div>
                 </div>
             </div>
