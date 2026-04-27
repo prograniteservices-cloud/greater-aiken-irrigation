@@ -16,10 +16,16 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const study = await getCaseStudyBySlug(slug);
-  if (!study) return {};
+  
+  if (!study) {
+    return {
+      title: "Case Study Not Found | Greater Aiken Irrigation",
+      description: "The requested irrigation case study could not be found."
+    };
+  }
 
   return {
-    title: study.title,
+    title: `${study.issue} in ${study.neighborhood} | Greater Aiken Irrigation`,
     description: study.description,
     keywords: study.keywords.join(", "),
   };
