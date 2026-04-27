@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
+import Link from "next/link";
 
 export function Hero() {
     return (
@@ -40,15 +41,15 @@ export function Hero() {
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-                        <a href="/#quote" className="btn btn-primary min-w-[200px]">
+                        <Link href="/#quote" className="btn btn-primary min-w-[200px]">
                             Request Estimate
-                        </a>
-                        <a
+                        </Link>
+                        <Link
                             href="/#services"
                             className="text-brand-white/60 hover:text-brand-gold transition-colors font-bold uppercase tracking-widest text-sm border-b border-brand-white/20 pb-1"
                         >
                             Explore Expertise
-                        </a>
+                        </Link>
                     </div>
                 </motion.div>
             </div>
