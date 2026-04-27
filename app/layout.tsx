@@ -29,6 +29,30 @@ export const metadata: Metadata = {
     },
 };
 
+const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Greater Aiken Irrigation LLC",
+    "description": "Established irrigation expertise for residential estates and commercial grounds.",
+    "telephone": "912-266-9697",
+    "priceRange": "$$",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Aiken",
+        "addressRegion": "SC",
+        "postalCode": "29803",
+        "addressCountry": "US"
+    },
+    "areaServed": [
+        "Aiken SC",
+        "Augusta GA",
+        "North Augusta SC",
+        "Evans GA",
+        "Grovetown GA",
+        "Martinez GA"
+    ]
+};
+
 export default function RootLayout({
     children,
 }: Readonly<{
@@ -37,6 +61,10 @@ export default function RootLayout({
     return (
         <html lang="en" className={`${playfair.variable} ${inter.variable}`}>
             <body className="antialiased min-h-screen flex flex-col font-body">
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                />
                 {children}
             </body>
         </html>
