@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Phone, Mail, User, Shield, MapPin } from "lucide-react";
+import Link from 'next/link';
 
 export function Contact() {
     return (
