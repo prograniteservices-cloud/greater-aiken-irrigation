@@ -124,22 +124,22 @@ export function Footer() {
                         <h4 className="text-brand-gold uppercase tracking-widest text-xs font-bold mb-6">
                             Service Areas
                         </h4>
-                        <ul className="space-y-2 text-brand-white/60 text-sm">
-                            <li>• Aiken, SC</li>
-                            <li>• Augusta, GA</li>
-                            <li>• North Augusta, SC</li>
-                            <li>• Surrounding Areas</li>
-                        </ul>
-                        <div className="mt-6 pt-6 border-t border-brand-gold/10">
-                            <p className="text-brand-white/40 text-xs uppercase tracking-wider mb-2">
-                                Specializing In
-                            </p>
-                            <ul className="space-y-1 text-brand-white/60 text-sm">
-                                <li>Botanical Gardens</li>
-                                <li>Residential Estates</li>
-                                <li>Commercial Properties</li>
-                                <li>Athletic Fields</li>
-                            </ul>
+                        <div className="space-y-3">
+                            {[
+                                "Aiken, SC",
+                                "Augusta, GA",
+                                "North Augusta, SC",
+                                "Evans, GA",
+                                "Grovetown, GA",
+                                "Martinez, GA",
+                            ].map((area) => (
+                                <p
+                                    key={area}
+                                    className="text-brand-white/60 text-sm transition-all"
+                                >
+                                    → {area}
+                                </p>
+                            ))}
                         </div>
                     </div>
                 </div>
