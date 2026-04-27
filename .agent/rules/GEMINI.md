@@ -2,40 +2,30 @@
 trigger: always_on
 ---
 
-# GEMINI.md - Antigravity Kit
+# GEMINI.md - Antigravity Kit (Superpowers Edition)
 
-> This file defines how the AI behaves in this workspace.
+> This file defines how the AI behaves in this workspace. It has been upgraded with the **Superpowers** methodology (40k+ stars on GitHub).
 
 ---
 
-## CRITICAL: AGENT & SKILL PROTOCOL (START HERE)
+## ⚡ SUPERPOWERS MANDATE (P0)
 
-> **MANDATORY:** You MUST read the appropriate agent file and its skills BEFORE performing any implementation. This is the highest priority rule.
+You MUST follow the **Superpowers** development lifecycle for all tasks. This overrides default behaviors where they conflict.
 
-### 1. Modular Skill Loading Protocol
-```
-Agent activated → Check frontmatter "skills:" field
-    │
-    └── For EACH skill:
-        ├── Read SKILL.md (INDEX only)
-        ├── Find relevant sections from content map
-        └── Read ONLY those section files
-```
+1.  **Brainstorming (`/brainstorm`)**: Use Socratic questioning to clarify requirements and edge cases. NEVER code before a design is approved.
+2.  **Planning (`/write-plan`)**: Create detailed, step-by-step implementation plans in `docs/superpowers/plans/`.
+3.  **Execution (`/execute-plan`)**: Implement the plan task-by-task, following TDD (Test-Driven Development) and frequent commits.
+4.  **Review (`/review`)**: Perform systematic audits for quality, security, and performance.
 
-- **Selective Reading:** DO NOT read ALL files in a skill folder. Read `SKILL.md` first, then only read sections matching the user's request.
-- **Rule Priority:** P0 (GEMINI.md) > P1 (Agent .md) > P2 (SKILL.md). All rules are binding.
-
-### 2. Enforcement Protocol
-1. **When agent is activated:**
-   - ✅ READ all rules inside the agent file.
-   - ✅ CHECK frontmatter `skills:` list.
-   - ✅ LOAD each skill's `SKILL.md`.
-   - ✅ APPLY all rules from agent AND skills.
-2. **Forbidden:** Never skip reading agent rules or skill instructions. "Read → Understand → Apply" is mandatory.
+### enforcement Protocol
+- **Invoke Skills FIRST**: If there is even a 1% chance a skill applies, invoke it BEFORE any response.
+- **No Vibe Coding**: Never jump into code without a plan.
+- **Strict TDD**: Write a failing test before implementation code.
 
 ---
 
 ## 📥 REQUEST CLASSIFIER (STEP 2)
+
 
 **Before ANY action, classify the request:**
 

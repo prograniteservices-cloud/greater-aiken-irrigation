@@ -34,3 +34,8 @@ yarn-error.log*
 next-env.d.ts
 
 build_output.txt
+\
+# next-sitemap
+public/sitemap.xml
+public/robots.txt
+public/sitemap-*.xml\
