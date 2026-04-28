@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@composio/client": "^0.1.0-alpha.67",
     "@supabase/supabase-js": "^2.48.0",
     "@tailwindcss/typography": "^0.5.19",
     "framer-motion": "^11.18.1",
