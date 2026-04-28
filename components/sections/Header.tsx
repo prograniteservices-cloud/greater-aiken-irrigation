@@ -9,7 +9,7 @@ export function Header() {
     const [isScrolled, setIsScrolled] = useState(false);
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const { scrollY } = useScroll();
-    const headerOpacity = useTransform(scrollY, [0, 100], [0.7, 0.95]);
+    const headerOpacity = useTransform(scrollY, [0, 100], [0.9, 1.0]);
 
     useEffect(() => {
         const handleScroll = () => {
@@ -34,7 +34,7 @@ export function Header() {
             }`}
         >
             <div className="container-custom">
-                <nav className="relative backdrop-blur-xl bg-brand-black/40 border border-brand-gold/20 shadow-2xl">
+                <nav className="relative backdrop-blur-xl bg-brand-black/90 border border-brand-gold/20 shadow-2xl">
                     {/* Glassmorphic overlay */}
                     <div className="absolute inset-0 bg-gradient-to-r from-brand-green/10 via-transparent to-brand-gold/10 pointer-events-none" />
                     
