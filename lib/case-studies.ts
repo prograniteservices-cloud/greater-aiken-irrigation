@@ -56,10 +56,13 @@ export async function getCaseStudyBySlug(slug: string): Promise<CaseStudy | null
     ? data.keywords.split(",").map((k: string) => k.trim())
     : data.keywords || [];
 
+  // Strip the first h1 if it exists (e.g., "# Title")
+  const strippedContent = content.replace(/^#\s+.+[\r\n]*/, "");
+
   return {
     ...(data as Omit<CaseStudyMetadata, "slug" | "keywords">),
     keywords,
     slug,
-    content,
+    content: strippedContent,
   };
 }

@@ -46,9 +46,9 @@ export function Header() {
                                 />
                             </div>
                             <div className="hidden md:block">
-                                <h2 className="text-brand-gold font-heading text-xl font-bold tracking-tight leading-none">
+                                <span className="text-brand-gold font-heading text-xl font-bold tracking-tight leading-none block">
                                     Greater Aiken
-                                </h2>
+                                </span>
                                 <p className="text-brand-white/60 text-xs uppercase tracking-widest font-body">
                                     Irrigation LLC
                                 </p>

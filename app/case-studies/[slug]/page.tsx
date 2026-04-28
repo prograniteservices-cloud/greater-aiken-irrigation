@@ -103,7 +103,7 @@ export default async function CaseStudyPage({ params }: { params: Promise<{ slug
 
           {relatedStudies.length > 0 && (
             <div className="mt-16 pt-16 border-t border-brand-gold/10">
-              <h3 className="text-2xl font-heading font-bold text-brand-gold mb-8">Related Field Reports</h3>
+              <h2 className="text-2xl font-heading font-bold text-brand-gold mb-8">Related Field Reports</h2>
               <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
                 {relatedStudies.map((related) => (
                   <Link 
@@ -114,9 +114,9 @@ export default async function CaseStudyPage({ params }: { params: Promise<{ slug
                     <span className="text-[10px] text-brand-gold/60 uppercase tracking-widest block mb-2">
                       {related.location}
                     </span>
-                    <h4 className="font-heading font-bold text-lg mb-2 group-hover:text-brand-gold transition-colors line-clamp-2">
+                    <h3 className="font-heading font-bold text-lg mb-2 group-hover:text-brand-gold transition-colors line-clamp-2">
                       {related.title}
-                    </h4>
+                    </h3>
                     <span className="text-xs text-brand-white/40">{related.issue}</span>
                   </Link>
                 ))}
@@ -126,7 +126,7 @@ export default async function CaseStudyPage({ params }: { params: Promise<{ slug
 
           <footer className="mt-24 pt-12 border-t border-brand-gold/10">
             <div className="bg-brand-green/10 border border-brand-gold/20 p-12 text-center">
-              <h3 className="font-heading text-3xl font-bold mb-6">Need a Surgical Fix for Your Estate?</h3>
+              <h2 className="font-heading text-3xl font-bold mb-6">Need a Surgical Fix for Your Estate?</h2>
               <p className="text-brand-white/70 mb-8 max-w-xl mx-auto font-light leading-relaxed">
                 Don't let amateur repairs compromise your landscape. Travis R. Sowell brings 40 years of precision to every zone.
               </p>

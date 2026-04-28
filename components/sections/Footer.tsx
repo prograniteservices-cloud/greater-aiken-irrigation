@@ -29,9 +29,9 @@ export function Footer() {
                                 />
                             </div>
                         </div>
-                        <h3 className="text-2xl font-heading font-bold mb-3 text-brand-gold">
+                        <h2 className="text-2xl font-heading font-bold mb-3 text-brand-gold">
                             Greater Aiken<br />Irrigation LLC
-                        </h3>
+                        </h2>
                         <p className="text-brand-white/60 text-sm leading-relaxed mb-4">
                             40 years of precision irrigation expertise serving Aiken's most prestigious properties.
                         </p>
@@ -57,9 +57,9 @@ export function Footer() {
 
                     {/* Contact Information */}
                     <div>
-                        <h4 className="text-brand-gold uppercase tracking-widest text-xs font-bold mb-6">
+                        <h3 className="text-brand-gold uppercase tracking-widest text-xs font-bold mb-6">
                             Contact
-                        </h4>
+                        </h3>
                         <div className="space-y-4">
                             <div>
                                 <p className="text-brand-white/40 text-xs uppercase tracking-wider mb-1">
@@ -96,9 +96,9 @@ export function Footer() {
 
                     {/* Quick Links */}
                     <div>
-                        <h4 className="text-brand-gold uppercase tracking-widest text-xs font-bold mb-6">
+                        <h3 className="text-brand-gold uppercase tracking-widest text-xs font-bold mb-6">
                             Quick Links
-                        </h4>
+                        </h3>
                         <nav className="space-y-3">
                             {[
                                 { label: "Services", href: "/#services" },
@@ -121,9 +121,9 @@ export function Footer() {
 
                     {/* Service Areas */}
                     <div>
-                        <h4 className="text-brand-gold uppercase tracking-widest text-xs font-bold mb-6">
+                        <h3 className="text-brand-gold uppercase tracking-widest text-xs font-bold mb-6">
                             Service Areas
-                        </h4>
+                        </h3>
                         <div className="space-y-3">
                             {[
                                 "Aiken, SC",

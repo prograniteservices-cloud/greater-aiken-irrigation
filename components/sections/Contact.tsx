@@ -74,7 +74,7 @@ export function Contact() {
                                             <User size={24} />
                                         </div>
                                         <div>
-                                            <h4 className="text-brand-white font-heading text-2xl font-bold">Travis R. Sowell</h4>
+                                            <h3 className="text-brand-white font-heading text-2xl font-bold">Travis R. Sowell</h3>
                                             <p className="text-brand-gold uppercase tracking-[0.2em] text-[10px] font-bold">Master Irrigation Specialist</p>
                                         </div>
                                     </div>
