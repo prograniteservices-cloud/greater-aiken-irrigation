@@ -8,20 +8,15 @@ issue: "Controller Lightning Damage"
 keywords: "sprinkler repair Aiken, irrigation service Woodside Plantation, controller lightning damage, CSRA irrigation, Rain Bird repair, Hunter sprinkler service"
 ---
 
-# Controller Lightning Damage in Woodside Plantation, Cedar Creek (Aiken, SC)
+# Field Log: The Summer Storm Surge in Cedar Creek
 
-## The Problem
-In Woodside Plantation / Cedar Creek (Aiken, SC), particularly in the sandy tracts near the golf courses where the pines drop needles year-round., we recently encountered a frustrating case of Controller Lightning Damage. The homeowner noticed that despite a regular schedule, parts of the landscape were suffering. In this neighborhood, where sandy soil and golf course living are common features, A summer storm surge fried the logic board of a high-end smart controller, leaving the lawn to bake.
+## Site Investigation
+In Cedar Creek, those beautiful, rolling golf course views come with a price: wide-open exposure to the CSRA's legendary summer lightning. I walked onto a property where the owner's sophisticated smart controller had been turned into a very expensive paperweight by a close strike. The display was dead, and three solenoids in the field had been literally welded shut by the surge. In 40 years of local service, I've seen lightning jump from a pine tree, travel down a root, and ride the wire right into the garage. In this sandy soil, the grounding is often poor, giving the surge nowhere else to go but through the electronics.
 
-## The Diagnosis
-With over 40 years of boots-on-the-ground experience in the CSRA, we don't just look for symptoms; we look for the source. For this Controller Lightning Damage in Woodside Plantation, Cedar Creek, we performed a comprehensive pressure-flow analysis. We checked the GPM (Gallons Per Minute) at the meter and cross-referenced it with the PSI at the furthest head. Often, these issues stem from aging manifolds or improperly sized lateral lines that can't handle the hydraulic demand of modern Aiken, SC landscapes.
+## Engineering Solution
+We didn't just swap the box; we "hardened" the site. We installed a new, commercial-grade controller with modular surge protection and enhanced grounding rods driven deep into the Aiken aquifer level. To eliminate a primary path for future surges, we upgraded the owner to **wireless rain sensors**, removing the long, copper-core wire run to the roofline that acts like a lightning rod. We also added **flow sensing telemetry** with an master-valve kill switch. If a future strike blows a valve open, the system will detect the "high flow" and cut the water before it washes out the pine-straw beds and violates the HOA's appearance standards.
 
-## The Surgical Solution
-Our approach is surgical, not structural. We executed a precision manifold repair using high-end components from Rain Bird and Hunter to ensure longevity. We recalibrated the entire zone, adjusting nozzle trajectories to account for local wind patterns and soil absorption rates. In areas with Controller Lightning Damage, we often install master valves or check-valves to prevent low-head drainage and ensure the system maintains prime between cycles.
-
-## The Result
-Modern, weather-aware scheduling and a system protected against future CSRA storms. The estate's greenery is once again thriving, reflecting the high standards of the community.
-
-Whether you're dealing with the challenges of river-front properties or the unique needs of horse farms, Greater Aiken Irrigation has the local expertise to keep your system running perfectly.
+## System Certification
+The new grounding system was tested for resistance and passed with flying colors. We replaced the fried solenoids and re-mapped the zones, ensuring the new weather-aware controller is taking full advantage of the local weather stations. This Cedar Creek estate is now better protected than the day it was built, ready to weather whatever the South Carolina sky throws at it.
 
 [Back to Greater Aiken Irrigation Home](/)

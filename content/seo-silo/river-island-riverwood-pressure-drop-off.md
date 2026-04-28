@@ -10,18 +10,16 @@ keywords: "sprinkler repair Evans, irrigation service River Island, pressure dro
 
 # Pressure Drop-Off in River Island, Riverwood Plantation (Evans, GA)
 
-## The Problem
-In River Island / Riverwood Plantation (Evans, GA), particularly in the expansive estate lots where Georgia red clay meets the challenges of river-front elevation., we recently encountered a frustrating case of Pressure Drop-Off in New Developments. The homeowner noticed that despite a regular schedule, parts of the landscape were suffering. In this neighborhood, where estate lots and luxury landscaping are common features, As more houses were built in the phase, the original system design lost the pressure needed to pop up the rotors.
+## Field Observations
+In the newer phases of Riverwood Plantation and the higher estates of River Island, we’re seeing a lot of "lazy heads"—sprinklers that barely pop up and just dribble water. The elevation changes from the river cliffs up to the Columbia County ridges mean that gravity is often working against your irrigation system. I was at a property where the backyard rotors looked like they were tired, barely reaching half their intended radius. The owner thought it was a leak, but it was a classic case of hydraulic demand outstripping the supply in a growing Evans neighborhood.
 
-## The Diagnosis
-With over 40 years of boots-on-the-ground experience in the CSRA, we don't just look for symptoms; we look for the source. For this Pressure Drop-Off in River Island, Riverwood Plantation, we performed a comprehensive pressure-flow analysis. We checked the GPM (Gallons Per Minute) at the meter and cross-referenced it with the PSI at the furthest head. Often, these issues stem from aging manifolds or improperly sized lateral lines that can't handle the hydraulic demand of modern Evans, GA landscapes.
+## Diagnostic Review
+You don't stay in this game for 40 years without learning how to read a pressure gauge. We started at the main line, checking the static and dynamic PSI. We then performed a GPM test at the Hunter Pro-C controller, running one zone at a time. The problem wasn't a broken pipe; it was the sheer number of homes being built in Riverwood. The municipal pressure was dropping just enough that the original system design couldn't overcome the friction loss in the long lateral lines. We even ran a multimeter diagnostic on the Rain Bird DV valves to ensure they were opening fully—electrical was fine, but the physics were failing.
 
-## The Surgical Solution
-Our approach is surgical, not structural. We executed a precision manifold repair using high-end components from Rain Bird and Hunter to ensure longevity. We recalibrated the entire zone, adjusting nozzle trajectories to account for local wind patterns and soil absorption rates. In areas with Pressure Drop-Off, we often install master valves or check-valves to prevent low-head drainage and ensure the system maintains prime between cycles.
+## Surgical Execution
+We didn't just tell the client "too bad." We executed a surgical redesign of the worst-performing zones. We replaced the standard rotors with high-efficiency, low-pressure nozzles that maintain a tight stream even when the PSI dips. We also upgraded the poly-pipe tensile strength in key areas to reduce friction loss and installed a series of check valves to keep the lines primed between cycles. For the most critical areas near the house, we re-valved the manifold to split the larger zones, effectively doubling the available pressure for each head without needing an expensive booster pump.
 
-## The Result
-Full head-to-head coverage restored without the need for an expensive booster pump. The estate's greenery is once again thriving, reflecting the high standards of the community.
-
-Whether you're dealing with the challenges of river-front properties or the unique needs of horse farms, Greater Aiken Irrigation has the local expertise to keep your system running perfectly.
+## System Status
+Coverage is back to 100% head-to-head. The rotors are popping up with authority and throwing water exactly where it needs to go, regardless of the neighborhood's peak usage times. We finished by verifying the backflow certification for the property. The Evans estate is once again lush and green, and the homeowner finally has the "pop" they were missing.
 
 [Back to Greater Aiken Irrigation Home](/)

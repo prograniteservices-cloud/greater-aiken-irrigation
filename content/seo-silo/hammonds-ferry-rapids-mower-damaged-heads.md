@@ -8,20 +8,18 @@ issue: "Mower-Damaged Heads"
 keywords: "sprinkler repair North Augusta, irrigation service Hammond's Ferry, mower-damaged heads, CSRA irrigation, Rain Bird repair, Hunter sprinkler service"
 ---
 
-# Mower-Damaged Heads in Hammond's Ferry, The Rapids (North Augusta, SC)
+# Mower-Damaged Heads in Hammond's Ferry & The Rapids (North Augusta, SC)
 
-## The Problem
-In Hammond’s Ferry / The Rapids (North Augusta, SC), particularly in the manicured, high-density lots near the Savannah River where aesthetics are everything., we recently encountered a frustrating case of Mower-Damaged Heads. The homeowner noticed that despite a regular schedule, parts of the landscape were suffering. In this neighborhood, where river views and tight lots are common features, Commercial zero-turn mowers shearing off rotor heads that didn't retract fully after the last cycle.
+## Initial Site Survey
+In the manicured lawns of Hammond's Ferry and The Rapids, the competition for the best-looking turf is fierce. Unfortunately, that leads to aggressive mowing schedules. We arrived at a site where three different rotor heads had been sheared off by a commercial zero-turn mower. On these high-density lots, the mowers move fast, and if a head doesn't retract fully into the sandy North Augusta soil, it's goner.
 
-## The Diagnosis
-With over 40 years of boots-on-the-ground experience in the CSRA, we don't just look for symptoms; we look for the source. For this Mower-Damaged Heads in Hammond's Ferry, The Rapids, we performed a comprehensive pressure-flow analysis. We checked the GPM (Gallons Per Minute) at the meter and cross-referenced it with the PSI at the furthest head. Often, these issues stem from aging manifolds or improperly sized lateral lines that can't handle the hydraulic demand of modern North Augusta, SC landscapes.
+## Technical Assessment
+Upon inspection, the issue wasn't just "bad luck." The heads were sitting too high because of soil "heaving" near the Savannah River bank. Furthermore, the system was suffering from significant hydraulic friction loss because the broken heads were gushing water, preventing the rest of the zone from building enough pressure to pop up. We checked the backflow prevention device to ensure no debris had been sucked back into the main line during the pressure drop.
 
-## The Surgical Solution
-Our approach is surgical, not structural. We executed a precision manifold repair using high-end components from Rain Bird and Hunter to ensure longevity. We recalibrated the entire zone, adjusting nozzle trajectories to account for local wind patterns and soil absorption rates. In areas with Mower-Damaged Heads, we often install master valves or check-valves to prevent low-head drainage and ensure the system maintains prime between cycles.
+## Surgical Execution
+We moved away from the standard pop-ups and upgraded the high-traffic areas to Rain Bird 5000 Series rotors with Sam-Clutch features and stainless steel risers. These are built to withstand the weight of heavy equipment. We also installed Hunter MP Rotators on the smaller turf strips between the sidewalk and the street. The MP Rotators provide a matched precipitation rate that's much more efficient for the narrow, high-visibility areas common in Hammond's Ferry. Every new head was set on a swing-joint assembly, allowing it to "float" if a mower wheel passes directly over it.
 
-## The Result
-A mower-safe irrigation system that stands up to even the most aggressive landscaping crews. The estate's greenery is once again thriving, reflecting the high standards of the community.
-
-Whether you're dealing with the challenges of river-front properties or the unique needs of horse farms, Greater Aiken Irrigation has the local expertise to keep your system running perfectly.
+## Operational Outcome
+The system is now "mower-proofed." By lowering the heads to the proper grade and using industrial-strength components, we've eliminated the weekly "broken head" headache for this homeowner. The lawn is receiving uniform coverage again, ensuring that deep green look that North Augusta residents expect.
 
 [Back to Greater Aiken Irrigation Home](/)

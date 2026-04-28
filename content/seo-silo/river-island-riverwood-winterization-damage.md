@@ -1,6 +1,6 @@
 ---
 title: "Winterization & Freeze Damage Repair in River Island, Riverwood Plantation | Evans, GA"
-description: "Professional Winterization & Freeze Damage repair in River Island, Riverwood Plantation, Evans, GA. 40+ years expert irrigation service with surgical precisi..."
+description: "Professional Winterization & Freeze Damage repair in River Island, Riverwood Plantation, Evans, GA. 40+ years expert irrigation service with surgical precision."
 date: "2026-04-21"
 location: "Evans, GA"
 neighborhood: "River Island, Riverwood Plantation"
@@ -10,18 +10,16 @@ keywords: "sprinkler repair Evans, irrigation service River Island, winterizatio
 
 # Winterization & Freeze Damage in River Island, Riverwood Plantation (Evans, GA)
 
-## The Problem
-In River Island / Riverwood Plantation (Evans, GA), particularly in the expansive estate lots where Georgia red clay meets the challenges of river-front elevation., we recently encountered a frustrating case of Winterization Cracks & Freeze Damage. The homeowner noticed that despite a regular schedule, parts of the landscape were suffering. In this neighborhood, where estate lots and luxury landscaping are common features, A backflow preventer that wasn't properly drained cracked during a January cold snap, causing a major leak in the spring.
+## On-Site Discovery
+Even in Evans, GA, a January cold snap can do a number on a system that wasn't put to bed right. We arrived at this River Island property in early March to find the backflow preventer—a high-end brass unit—cracked right down the middle of the bell. The homeowner had tried a "DIY" blow-out, but in these large estates with complex elevation changes, trapped water is a silent killer.
 
-## The Diagnosis
-With over 40 years of boots-on-the-ground experience in the CSRA, we don't just look for symptoms; we look for the source. For this Winterization & Freeze Damage in River Island, Riverwood Plantation, we performed a comprehensive pressure-flow analysis. We checked the GPM (Gallons Per Minute) at the meter and cross-referenced it with the PSI at the furthest head. Often, these issues stem from aging manifolds or improperly sized lateral lines that can't handle the hydraulic demand of modern Evans, GA landscapes.
+## Engineering Analysis
+The problem with these river-front properties is that the piping often dips and dives to follow the terrain. Standard gravity draining won't clear the "bellies" in the lateral lines. When that water freezes, it expands with enough force to shatter PVC and brass alike. We performed a pressure test on the mainline and found three separate "hairline" fractures where the water had frozen in sections of pipe buried too shallowly in the river-silt layers.
 
-## The Surgical Solution
-Our approach is surgical, not structural. We executed a precision manifold repair using high-end components from Rain Bird and Hunter to ensure longevity. We recalibrated the entire zone, adjusting nozzle trajectories to account for local wind patterns and soil absorption rates. In areas with Winterization & Freeze Damage, we often install master valves or check-valves to prevent low-head drainage and ensure the system maintains prime between cycles.
+## Technical Solution
+We replaced the shattered backflow assembly with a New Febco 765, properly insulated with a decorative, freeze-proof "hot box." For the underground repairs, we used heavy-walled Schedule 40 PVC and ensured all new joints were primed and glued for maximum "water hammer mitigation." We also installed several "manual drains" at the lowest points of the system, specifically to aid in future winterization—making sure those "bellies" in the pipe can be drained without needing a 185-CFM compressor every year.
 
-## The Result
-A leak-free start to the season and peace of mind for next winter's freezes. The estate's greenery is once again thriving, reflecting the high standards of the community.
-
-Whether you're dealing with the challenges of river-front properties or the unique needs of horse farms, Greater Aiken Irrigation has the local expertise to keep your system running perfectly.
+## Final Validation
+We pressurized the mainline and verified "Master valve isolation" to ensure no other slow leaks were hiding. The system held a steady 70 PSI for 30 minutes. We then walked the zones, confirming that every rotor—mostly K-Rain gear drives—popped and rotated as intended. The system is back in service, and the homeowner has a clear SOP for next winter.
 
 [Back to Greater Aiken Irrigation Home](/)

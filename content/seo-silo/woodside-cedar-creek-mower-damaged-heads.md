@@ -8,20 +8,15 @@ issue: "Mower-Damaged Heads"
 keywords: "sprinkler repair Aiken, irrigation service Woodside Plantation, mower-damaged heads, CSRA irrigation, Rain Bird repair, Hunter sprinkler service"
 ---
 
-# Mower-Damaged Heads in Woodside Plantation, Cedar Creek (Aiken, SC)
+# Field Log: The Turf War at Woodside
 
-## The Problem
-In Woodside Plantation / Cedar Creek (Aiken, SC), particularly in the sandy tracts near the golf courses where the pines drop needles year-round., we recently encountered a frustrating case of Mower-Damaged Heads. The homeowner noticed that despite a regular schedule, parts of the landscape were suffering. In this neighborhood, where sandy soil and golf course living are common features, Commercial zero-turn mowers shearing off rotor heads that didn't retract fully after the last cycle.
+## Site Investigation
+In Woodside Plantation, the lawns are cut like a putting green, which means the mowing crews are running their zero-turn blades low and fast. I was called out to an estate where three different rotor heads had been decapitated. This isn't just a simple break; in our local sugar sand, a sheared head becomes a geyser that washes out several yards of topsoil in minutes. Over my 40 years, I've seen that standard rotors often fail to retract fully because the grit gets in the seals, leaving them just high enough to be caught by a 60-inch deck. The owner was tired of the "weekly sprinkler tax" he was paying to his repair guy.
 
-## The Diagnosis
-With over 40 years of boots-on-the-ground experience in the CSRA, we don't just look for symptoms; we look for the source. For this Mower-Damaged Heads in Woodside Plantation, Cedar Creek, we performed a comprehensive pressure-flow analysis. We checked the GPM (Gallons Per Minute) at the meter and cross-referenced it with the PSI at the furthest head. Often, these issues stem from aging manifolds or improperly sized lateral lines that can't handle the hydraulic demand of modern Aiken, SC landscapes.
+## Engineering Solution
+We did a full "mower-proofing" upgrade. We pulled the damaged units and replaced them with high-pop bodies equipped with heavy-duty internal springs and **SAM (Seal-A-Matic) check valves**. These check valves are crucial; they keep the lines under pressure so the heads snap down the instant the zone turns off, rather than slowly sinking as the water drains out. To prevent the heads from being spun or adjusted by the vibration of heavy equipment, we installed **vandal-resistant caps** on all perimeter rotors. These locking caps ensure the nozzles stay pointed at the grass, not the homeowner's windows or the pine-straw beds.
 
-## The Surgical Solution
-Our approach is surgical, not structural. We executed a precision manifold repair using high-end components from Rain Bird and Hunter to ensure longevity. We recalibrated the entire zone, adjusting nozzle trajectories to account for local wind patterns and soil absorption rates. In areas with Mower-Damaged Heads, we often install master valves or check-valves to prevent low-head drainage and ensure the system maintains prime between cycles.
-
-## The Result
-A mower-safe irrigation system that stands up to even the most aggressive landscaping crews. The estate's greenery is once again thriving, reflecting the high standards of the community.
-
-Whether you're dealing with the challenges of river-front properties or the unique needs of horse farms, Greater Aiken Irrigation has the local expertise to keep your system running perfectly.
+## System Certification
+Every head was tested for proper retraction and pop-up height. We set the new rotors slightly below the thatch line to ensure a 1/2-inch clearance from even the most aggressive mower blade. The result is a clean, uniform spray pattern that the landscape crew can't touch. In Woodside, we build systems that can take a punch and keep on spraying.
 
 [Back to Greater Aiken Irrigation Home](/)

@@ -10,18 +10,16 @@ keywords: "sprinkler repair Evans, irrigation service River Island, mower-damage
 
 # Mower-Damaged Heads in River Island, Riverwood Plantation (Evans, GA)
 
-## The Problem
-In River Island / Riverwood Plantation (Evans, GA), particularly in the expansive estate lots where Georgia red clay meets the challenges of river-front elevation., we recently encountered a frustrating case of Mower-Damaged Heads. The homeowner noticed that despite a regular schedule, parts of the landscape were suffering. In this neighborhood, where estate lots and luxury landscaping are common features, Commercial zero-turn mowers shearing off rotor heads that didn't retract fully after the last cycle.
+## Field Observations
+Maintaining an estate in Riverwood Plantation requires some heavy-duty mowing equipment. The problem is, those big zero-turn mowers and the elevation changes on the river cliffs don't always play nice with sprinkler heads. I was out in River Island where a commercial crew had accidentally "scalped" three rotor heads that hadn't retracted fully into the heavy Georgia red clay. Instead of a uniform spray, the client had three geysers wasting water and flooding their manicured turf.
 
-## The Diagnosis
-With over 40 years of boots-on-the-ground experience in the CSRA, we don't just look for symptoms; we look for the source. For this Mower-Damaged Heads in River Island, Riverwood Plantation, we performed a comprehensive pressure-flow analysis. We checked the GPM (Gallons Per Minute) at the meter and cross-referenced it with the PSI at the furthest head. Often, these issues stem from aging manifolds or improperly sized lateral lines that can't handle the hydraulic demand of modern Evans, GA landscapes.
+## Diagnostic Review
+I've seen enough sheared-off heads in 40 years to know that the damage often goes deeper than just the plastic top. We started by checking the GPM at the zone to see if the impact had cracked the lateral lines. We also ran a multimeter diagnostic at the Hunter Pro-C controller to ensure no solenoids were being overworked by the massive pressure drop-off. In these Evans lots, the transition from clay to river-silt soil can cause heads to settle unevenly, making them prime targets for a mower blade.
 
-## The Surgical Solution
-Our approach is surgical, not structural. We executed a precision manifold repair using high-end components from Rain Bird and Hunter to ensure longevity. We recalibrated the entire zone, adjusting nozzle trajectories to account for local wind patterns and soil absorption rates. In areas with Mower-Damaged Heads, we often install master valves or check-valves to prevent low-head drainage and ensure the system maintains prime between cycles.
+## Surgical Execution
+We didn't just screw on new nozzles and call it a day. We performed a surgical excavation of each damaged head. We replaced the sheared components with commercial-grade Rain Bird rotors featuring stainless steel risers for extra durability. More importantly, we installed them on flexible swing joints—this allows the head to "give" if a mower hits it, rather than snapping the poly-pipe underground. We also adjusted the height of each head to account for the specific turf density and the slope of the Columbia County landscape.
 
-## The Result
-A mower-safe irrigation system that stands up to even the most aggressive landscaping crews. The estate's greenery is once again thriving, reflecting the high standards of the community.
-
-Whether you're dealing with the challenges of river-front properties or the unique needs of horse farms, Greater Aiken Irrigation has the local expertise to keep your system running perfectly.
+## System Status
+The system is back to providing head-to-head coverage without the geysers. We recalibrated the entire zone to ensure the nozzle trajectories were clearing the grass but staying below the mower's path. We also verified the backflow certification for the property. The lawn looks great, and the irrigation system is now "mower-proofed" for the rest of the season.
 
 [Back to Greater Aiken Irrigation Home](/)

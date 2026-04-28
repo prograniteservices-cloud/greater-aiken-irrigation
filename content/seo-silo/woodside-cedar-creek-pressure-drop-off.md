@@ -8,20 +8,15 @@ issue: "Pressure Drop-Off"
 keywords: "sprinkler repair Aiken, irrigation service Woodside Plantation, pressure drop-off, CSRA irrigation, Rain Bird repair, Hunter sprinkler service"
 ---
 
-# Pressure Drop-Off in Woodside Plantation, Cedar Creek (Aiken, SC)
+# Field Log: The Cedar Creek Flow Crisis
 
-## The Problem
-In Woodside Plantation / Cedar Creek (Aiken, SC), particularly in the sandy tracts near the golf courses where the pines drop needles year-round., we recently encountered a frustrating case of Pressure Drop-Off in New Developments. The homeowner noticed that despite a regular schedule, parts of the landscape were suffering. In this neighborhood, where sandy soil and golf course living are common features, As more houses were built in the phase, the original system design lost the pressure needed to pop up the rotors.
+## Site Investigation
+Cedar Creek has been expanding faster than a spring weed, and that rapid growth can put a serious strain on the community's water main. I was called to a stunning estate where the rotors were barely popping up—they were "weeping" rather than spraying. The homeowner thought his pump was dying, but in 40 years of Aiken irrigation, I've seen this movie before. As more homes hit the main line in the new phases, the available PSI at the meter drops. What worked fine three years ago is now struggling to push water to the back of the property. In this sandy soil, if you don't have enough pressure to pop the head, the water just boils out at the base and creates a sinkhole.
 
-## The Diagnosis
-With over 40 years of boots-on-the-ground experience in the CSRA, we don't just look for symptoms; we look for the source. For this Pressure Drop-Off in Woodside Plantation, Cedar Creek, we performed a comprehensive pressure-flow analysis. We checked the GPM (Gallons Per Minute) at the meter and cross-referenced it with the PSI at the furthest head. Often, these issues stem from aging manifolds or improperly sized lateral lines that can't handle the hydraulic demand of modern Aiken, SC landscapes.
+## Engineering Solution
+We didn't just add a booster pump—that's a loud, expensive band-aid. Instead, we re-engineered the system's efficiency. We swapped out the old, thirsty rotors for **matched precipitation rotors**. These high-tech nozzles require significantly less GPM (Gallons Per Minute) to achieve the same coverage, allowing the system to operate at lower pressures without sacrificing "throw." To stabilize the zones closer to the house, we installed **pressure-regulated spray bodies (PRS-40)**. These ensure that when the pressure *does* spike at 3:00 AM, the heads don't mist and blow away in the wind, but instead maintain a consistent, heavy droplet size that actually hits the roots.
 
-## The Surgical Solution
-Our approach is surgical, not structural. We executed a precision manifold repair using high-end components from Rain Bird and Hunter to ensure longevity. We recalibrated the entire zone, adjusting nozzle trajectories to account for local wind patterns and soil absorption rates. In areas with Pressure Drop-Off, we often install master valves or check-valves to prevent low-head drainage and ensure the system maintains prime between cycles.
-
-## The Result
-Full head-to-head coverage restored without the need for an expensive booster pump. The estate's greenery is once again thriving, reflecting the high standards of the community.
-
-Whether you're dealing with the challenges of river-front properties or the unique needs of horse farms, Greater Aiken Irrigation has the local expertise to keep your system running perfectly.
+## System Certification
+The system was audited using a dynamic pressure gauge at the furthest head. Even with the neighbors' systems running, we're now getting a clean, 45 PSI pop across every zone. The matched precipitation nozzles are delivering a slow, steady soak that the sugar sand can actually absorb. The lawn is green, the pressure is steady, and the owner didn't have to spend a fortune on a booster. That's veteran engineering.
 
 [Back to Greater Aiken Irrigation Home](/)

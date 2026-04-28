@@ -10,18 +10,16 @@ keywords: "sprinkler repair Evans, irrigation service River Island, controller l
 
 # Controller Lightning Damage in River Island, Riverwood Plantation (Evans, GA)
 
-## The Problem
-In River Island / Riverwood Plantation (Evans, GA), particularly in the expansive estate lots where Georgia red clay meets the challenges of river-front elevation., we recently encountered a frustrating case of Controller Lightning Damage. The homeowner noticed that despite a regular schedule, parts of the landscape were suffering. In this neighborhood, where estate lots and luxury landscaping are common features, A summer storm surge fried the logic board of a high-end smart controller, leaving the lawn to bake.
+## Field Observations
+Summer storms in Columbia County don't mess around, especially when you're perched on the river cliffs of River Island. A massive bolt hit a pine near an estate lot, and the resulting surge traveled right down the irrigation lines. I walked into the garage and the Hunter Pro-C controller looked like it had been through a war—blank screen, burnt smell, and a very unhappy homeowner whose lawn was starting to bake in that Evans heat.
 
-## The Diagnosis
-With over 40 years of boots-on-the-ground experience in the CSRA, we don't just look for symptoms; we look for the source. For this Controller Lightning Damage in River Island, Riverwood Plantation, we performed a comprehensive pressure-flow analysis. We checked the GPM (Gallons Per Minute) at the meter and cross-referenced it with the PSI at the furthest head. Often, these issues stem from aging manifolds or improperly sized lateral lines that can't handle the hydraulic demand of modern Evans, GA landscapes.
+## Diagnostic Review
+When lightning strikes, you have to be methodical. You don't just swap the box and leave. We started with a multimeter diagnostic on every single zone wire. We needed to check the solenoid resistance at the valves—if the surge fried the controller, it likely melted the Rain Bird DV valve solenoids too. We found two zones that were shorted to ground, likely where the surge jumped from the wire to the damp river-silt soil. In my 40 years of service, I've seen lightning do some strange things, but it always follows the path of least resistance.
 
-## The Surgical Solution
-Our approach is surgical, not structural. We executed a precision manifold repair using high-end components from Rain Bird and Hunter to ensure longevity. We recalibrated the entire zone, adjusting nozzle trajectories to account for local wind patterns and soil absorption rates. In areas with Controller Lightning Damage, we often install master valves or check-valves to prevent low-head drainage and ensure the system maintains prime between cycles.
+## Surgical Execution
+We performed a full "brain transplant" on the system. We installed a new, weather-aware Hunter controller with enhanced surge protection. Then we went out to the field and surgically replaced the damaged solenoids on the affected valves. We also checked the poly-pipe tensile strength near the strike site to ensure the heat hadn't compromised the lines. To prevent a repeat performance, we installed a heavy-duty grounding rod and a surge suppressor on the main power feed—essential equipment for these exposed river-front properties in Evans.
 
-## The Result
-Modern, weather-aware scheduling and a system protected against future CSRA storms. The estate's greenery is once again thriving, reflecting the high standards of the community.
-
-Whether you're dealing with the challenges of river-front properties or the unique needs of horse farms, Greater Aiken Irrigation has the local expertise to keep your system running perfectly.
+## System Status
+The system is back online and smarter than before. It’s now pulling local weather data to adjust for those afternoon Columbia County showers. We ran a full test cycle to ensure every head was firing and the backflow certification was still valid. The lawn is green, the estate is protected, and we’re ready for the next CSRA thunderstorm.
 
 [Back to Greater Aiken Irrigation Home](/)

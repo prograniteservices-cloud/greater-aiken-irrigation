@@ -10,18 +10,16 @@ keywords: "sprinkler repair North Augusta, irrigation service Hammond's Ferry, w
 
 # Winterization & Freeze Damage in Hammond's Ferry, The Rapids (North Augusta, SC)
 
-## The Problem
-In Hammond’s Ferry / The Rapids (North Augusta, SC), particularly in the manicured, high-density lots near the Savannah River where aesthetics are everything., we recently encountered a frustrating case of Winterization Cracks & Freeze Damage. The homeowner noticed that despite a regular schedule, parts of the landscape were suffering. In this neighborhood, where river views and tight lots are common features, A backflow preventer that wasn't properly drained cracked during a January cold snap, causing a major leak in the spring.
+## Field Observations
+Folks in Hammond's Ferry sometimes forget that even in the South, we get those January snaps that can crack a backflow preventer faster than a dry twig. I got a call this spring from a homeowner near the riverfront whose system sounded like a waterfall, but none of the heads were up. Walking onto the property, I could see the tell-tale ice damage—the copper was split wide open. In these high-density lots, a busted main line can wash out a manicured garden bed and half the neighbor's mulch in a single afternoon.
 
-## The Diagnosis
-With over 40 years of boots-on-the-ground experience in the CSRA, we don't just look for symptoms; we look for the source. For this Winterization & Freeze Damage in Hammond's Ferry, The Rapids, we performed a comprehensive pressure-flow analysis. We checked the GPM (Gallons Per Minute) at the meter and cross-referenced it with the PSI at the furthest head. Often, these issues stem from aging manifolds or improperly sized lateral lines that can't handle the hydraulic demand of modern North Augusta, SC landscapes.
+## Diagnostic Review
+Testing a system after a hard freeze requires a steady hand and a good ear. We started with the backflow certification—or rather, what was left of it. The internal check valves were shot, and the pressure vacuum breaker had a hairline fracture. We checked the GPM at the meter and it was off the charts, confirming a major breach. We used a multimeter diagnostic on the Hunter Pro-C controller to see if any solenoids had been shorted by the flooding water. It was a classic case: the system wasn't properly blown out last winter, and the trapped river-moisture expanded and won the fight against the metal.
 
-## The Surgical Solution
-Our approach is surgical, not structural. We executed a precision manifold repair using high-end components from Rain Bird and Hunter to ensure longevity. We recalibrated the entire zone, adjusting nozzle trajectories to account for local wind patterns and soil absorption rates. In areas with Winterization & Freeze Damage, we often install master valves or check-valves to prevent low-head drainage and ensure the system maintains prime between cycles.
+## Surgical Execution
+We didn't just slap a patch on it. We replaced the entire backflow assembly with a top-tier Febco unit and ensured it was mounted with proper drainage clearance. We then moved downstream to the Rain Bird DV valves, replacing the bonnets that had warped from the pressure. To make sure this doesn't happen again, we installed a series of manual blow-out ports and high-tensile strength poly-pipe fittings that can handle a bit more flex. We finished by insulating the exposed copper with UV-resistant foam and a decorative rock cover that fits the Hammond's Ferry aesthetic.
 
-## The Result
-A leak-free start to the season and peace of mind for next winter's freezes. The estate's greenery is once again thriving, reflecting the high standards of the community.
-
-Whether you're dealing with the challenges of river-front properties or the unique needs of horse farms, Greater Aiken Irrigation has the local expertise to keep your system running perfectly.
+## System Status
+The system is back to full health and 100% leak-free. We ran a full cycle to ensure the nozzle trajectories hadn't been knocked out of alignment by the surge. The lawn is getting its spring drink, and the homeowner has a reminder on their calendar to call us for a professional winterization before the first frost hits the Savannah River valley next year.
 
 [Back to Greater Aiken Irrigation Home](/)
