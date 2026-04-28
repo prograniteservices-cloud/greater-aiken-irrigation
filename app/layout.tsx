@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     description: "Established irrigation expertise for residential estates and commercial grounds. Specializing in botanical gardens, athletic fields, and reliable system maintenance in Aiken, SC.",
     keywords: ["irrigation system aiken sc", "garden sprinkler systems", "athletic field irrigation", "Greater Aiken Irrigation", "Travis R. Sowell", "irrigation maintenance"],
     verification: {
-        google: "oa1Cp6_7EWbyyVxwtEf1RH1nvf06UcL66oxfiJJ9Qg0",
+        google: "l4OmS0ImkYAdcww8t9Q4oHSh4iDVem4ExvvpC5O621g",
     },
     openGraph: {
         type: 'website',
