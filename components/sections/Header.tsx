@@ -1,11 +1,13 @@
 "use client";
 
-import { motion, useScroll, useTransform } from "framer-motion";
+import { motion, useScroll, useTransform, AnimatePresence } from "framer-motion";
 import Image from "next/image";
 import { useState, useEffect } from "react";
+import { Menu, X } from "lucide-react";
 
 export function Header() {
     const [isScrolled, setIsScrolled] = useState(false);
+    const [isMenuOpen, setIsMenuOpen] = useState(false);
     const { scrollY } = useScroll();
     const headerOpacity = useTransform(scrollY, [0, 100], [0.7, 0.95]);
 
@@ -16,6 +18,13 @@ export function Header() {
         window.addEventListener("scroll", handleScroll);
         return () => window.removeEventListener("scroll", handleScroll);
     }, []);
+
+    const navLinks = [
+        { label: "Services", href: "/#services" },
+        { label: "Gallery", href: "/#gallery" },
+        { label: "About", href: "/#about" },
+        { label: "Quote", href: "/#quote" },
+    ];
 
     return (
         <motion.header
@@ -57,12 +66,7 @@ export function Header() {
 
                         {/* Navigation Links */}
                         <div className="hidden lg:flex items-center gap-12">
-                            {[
-                                { label: "Services", href: "/#services" },
-                                { label: "Gallery", href: "/#gallery" },
-                                { label: "About", href: "/#about" },
-                                { label: "Quote", href: "/#quote" },
-                            ].map((link, idx) => (
+                            {navLinks.map((link) => (
                                 <motion.a
                                     key={link.href}
                                     href={link.href}
@@ -87,22 +91,51 @@ export function Header() {
                         </motion.a>
 
                         {/* Mobile Menu Button */}
-                        <button className="lg:hidden text-brand-gold">
-                            <svg
-                                className="w-6 h-6"
-                                fill="none"
-                                stroke="currentColor"
-                                viewBox="0 0 24 24"
-                            >
-                                <path
-                                    strokeLinecap="round"
-                                    strokeLinejoin="round"
-                                    strokeWidth={2}
-                                    d="M4 6h16M4 12h16M4 18h16"
-                                />
-                            </svg>
+                        <button 
+                            className="lg:hidden text-brand-gold p-2 transition-colors hover:text-brand-white"
+                            onClick={() => setIsMenuOpen(!isMenuOpen)}
+                            aria-label="Toggle menu"
+                        >
+                            {isMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
                         </button>
                     </div>
+
+                    {/* Mobile Overlay */}
+                    <AnimatePresence>
+                        {isMenuOpen && (
+                            <motion.div
+                                initial={{ opacity: 0, height: 0 }}
+                                animate={{ opacity: 1, height: "auto" }}
+                                exit={{ opacity: 0, height: 0 }}
+                                className="lg:hidden border-t border-brand-gold/20 overflow-hidden"
+                            >
+                                <div className="flex flex-col gap-6 p-8 bg-brand-black/95 relative">
+                                    {/* Mobile background accent */}
+                                    <div className="absolute inset-0 bg-gradient-to-b from-brand-gold/5 to-transparent pointer-events-none" />
+                                    
+                                    {navLinks.map((link) => (
+                                        <motion.a
+                                            key={link.href}
+                                            href={link.href}
+                                            onClick={() => setIsMenuOpen(false)}
+                                            className="text-brand-white/80 hover:text-brand-gold text-lg uppercase tracking-widest font-bold transition-colors"
+                                            whileHover={{ x: 10 }}
+                                        >
+                                            {link.label}
+                                        </motion.a>
+                                    ))}
+                                    <motion.a
+                                        href="/#contact"
+                                        onClick={() => setIsMenuOpen(false)}
+                                        className="btn btn-secondary text-center mt-4 py-4"
+                                        whileTap={{ scale: 0.98 }}
+                                    >
+                                        Contact Us
+                                    </motion.a>
+                                </div>
+                            </motion.div>
+                        )}
+                    </AnimatePresence>
                 </nav>
             </div>
         </motion.header>
