@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://aikenirrigation.pro
+
+# Sitemaps
+Sitemap: https://aikenirrigation.pro/sitemap.xml
