@@ -31,25 +31,84 @@ export const metadata: Metadata = {
 
 const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "name": "Greater Aiken Irrigation LLC",
-    "description": "Established irrigation expertise for residential estates and commercial grounds.",
-    "telephone": "912-266-9697",
-    "priceRange": "$$",
-    "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Aiken",
-        "addressRegion": "SC",
-        "postalCode": "29803",
-        "addressCountry": "US"
-    },
-    "areaServed": [
-        "Aiken SC",
-        "Augusta GA",
-        "North Augusta SC",
-        "Evans GA",
-        "Grovetown GA",
-        "Martinez GA"
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "@id": "https://aikenirrigation.pro/#organization",
+            "name": "Greater Aiken Irrigation LLC",
+            "description": "Established irrigation expertise for residential estates and commercial grounds.",
+            "telephone": "912-266-9697",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Aiken",
+                "addressRegion": "SC",
+                "postalCode": "29803",
+                "addressCountry": "US"
+            },
+            "areaServed": [
+                "Aiken SC",
+                "Augusta GA",
+                "North Augusta SC",
+                "Evans GA",
+                "Grovetown GA",
+                "Martinez GA"
+            ],
+            "founder": {
+                "@id": "https://aikenirrigation.pro/#founder"
+            },
+            "knowsAbout": [
+                "Irrigation Systems",
+                "Water Conservation",
+                "Hydraulic Engineering",
+                "Landscape Maintenance"
+            ],
+            "makesOffer": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Golf Course Irrigation"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Botanical Garden Systems"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Residential Maintenance"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Emergency Repair"
+                    }
+                }
+            ]
+        },
+        {
+            "@type": "Person",
+            "@id": "https://aikenirrigation.pro/#founder",
+            "name": "Travis R. Sowell",
+            "jobTitle": "Founder",
+            "worksFor": {
+                "@id": "https://aikenirrigation.pro/#organization"
+            },
+            "knowsAbout": [
+                "Irrigation Systems",
+                "Hydraulic Design",
+                "Water Management",
+                "Agronomy"
+            ]
+        }
     ]
 };
 
