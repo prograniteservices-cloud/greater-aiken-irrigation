@@ -37,7 +37,7 @@ export function Hero() {
                         <span className="italic font-normal text-brand-gold/90">Irrigation.</span>
                     </h1>
                     <p className="text-xl md:text-2xl text-brand-white/70 max-w-2xl mx-auto mb-12 font-light leading-relaxed">
-                        40 years of solo expertise protecting the greens of Augusta and botanical gardens across Aiken.
+                        Decades of engineering precision for the CSRA's most demanding botanical environments.
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">

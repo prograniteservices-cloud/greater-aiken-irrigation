@@ -6,7 +6,7 @@ export function About() {
     const skills = [
         {
             title: "Complex Design Mastery",
-            description: "Engineered irrigation systems for Augusta's most prestigious botanical gardens and athletic fields.",
+            description: "Specializing in Augusta's heavy clay and pressure fluctuations. We utilize high-torque rotors and engineered hydraulics for stable performance in demanding CSRA environments.",
             icon: "🎯"
         },
         {
@@ -16,7 +16,7 @@ export function About() {
         },
         {
             title: "Precision Installation",
-            description: "Every system designed with surgical precision. No guesswork, no shortcuts, just flawless execution.",
+            description: "Optimized for Aiken's sandy loam. We install precise 12-inch drip emitter spacing (vs standard 18-inch) to ensure uniform hydration and prevent root dehydration.",
             icon: "⚡"
         },
         {
